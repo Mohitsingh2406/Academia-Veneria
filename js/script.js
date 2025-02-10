@@ -225,9 +225,11 @@ $('.tlt').textillate({
     callback: function () {}
   },  
   callback: function () {},
+  
   type: 'char'
 });  
 }
+
 
 
 
